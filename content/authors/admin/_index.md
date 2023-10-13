@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cassino and Southern Lazio
+    url: https://www.unicas.it/
 education:
   courses:
     - course: PhD in Artificial Intelligence
