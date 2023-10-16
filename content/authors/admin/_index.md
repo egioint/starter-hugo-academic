@@ -8,6 +8,7 @@ interests:
   - Wireless Communications
   - Signal Processing
   - Beyond-5G Systems
+  - Cell-free Massive MIMO
 social:
   - icon: envelope
     icon_pack: fas
