@@ -36,19 +36,14 @@ social:
 organizations:
   - name: University of Cassino and Southern Lazio
     url: https://www.unicas.it/
-  - name: National Inter-University Consortium for Telecommunications (CNIT)
-    url: https://www.cnit.it/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: Linköping University, Sweden
+      year: 2019
+    - course: MSc in Computer and Telecommunication Systems Engineering
+      institution: University Mediterranea of Reggio Calabria, Italy
+      year: 2015
 superuser: true
 status:
   icon: ☕️
