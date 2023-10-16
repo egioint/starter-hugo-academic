@@ -57,7 +57,7 @@ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: Linköping University, Sweden
-      year: 2019
+      year: 2020
     - course: MSc in Computer and Telecommunication Systems Engineering
       institution: Mediterranea University of Reggio Calabria, Italy
       year: 2015
