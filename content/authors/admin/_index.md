@@ -64,7 +64,7 @@ education:
       institution: Linköping University, Sweden
       year: 2019
     - course: MSc in Computer and Telecommunication Systems Engineering
-      institution: University Mediterranea of Reggio Calabria, Italy
+      institution: Mediterranea University of Reggio Calabria, Italy
       year: 2015
 superuser: true
 status:
