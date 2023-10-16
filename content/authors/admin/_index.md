@@ -41,7 +41,7 @@ social:
     display:
       header: true
     label: "Follow me on LinkedIn "
-  - icon: x-twitter
+  - icon: square-x-twitter
     icon_pack: fab
     link: https://twitter.com/gio_interdonato
     label: Follow me on Twitter
@@ -74,4 +74,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Giovanni Interdonato is an assistant professor at the Department of Electrical and Information Engineering of the University of Cassino and Southern Lazio, Cassino, Italy. In 2020, he received the Ph.D. degree in electrical engineering with specialization in communication systems from Linköping University, Linköping, Sweden. From October 2015 to October 2018, he was a researcher at the radio network department at Ericsson Research in Linköping, and a Marie Sklodowska-Curie research fellow of the H2020 ITN project “5Gwireless”. His main research interests lie in the field of wireless communications and signal processing, with focus on beyond-5G physical layer technologies and communication protocols. He co-invented +25 filed patent applications on massive MIMO technology. {style="text-align: justify;"} 
+Giovanni Interdonato is an assistant professor at the Department of Electrical and Information Engineering of the University of Cassino and Southern Lazio, Cassino, Italy. In 2020, he received the Ph.D. degree in electrical engineering with specialization in communication systems from Linköping University, Linköping, Sweden. From October 2015 to October 2018, he was a researcher at the radio network department at Ericsson Research in Linköping, and a Marie Sklodowska-Curie research fellow of the H2020 ITN project “5Gwireless”. His main research interests lie in the field of wireless communications and signal processing, with focus on beyond-5G physical layer technologies and communication protocols. He co-invented +25 filed patent applications on massive MIMO technology.{style="text-align: justify;"}
