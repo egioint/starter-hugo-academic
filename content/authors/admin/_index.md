@@ -12,24 +12,46 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: x-twitter
-    icon_pack: fab
-    link: https://twitter.com/gio_interdonato
-    label: Follow me on Twitter
-    display:
+  - display:
       header: false
+    link: https://orcid.org/0000-0002-6078-835X
+    icon_pack: fas
+    icon: orcid
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=CAWnjKEAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/egioint
+  - display:
+      header: false
+    link: https://www.webofscience.com/wos/author/record/ABD-5061-2020
+    icon_pack: fas
+    icon: chart-simple
+  - display:
+      header: false
+    link: https://arxiv.org/a/interdonato_g_1
+    icon_pack: fas
+    icon: open-book
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Giovanni-Interdonato
+    icon_pack: fas
+    icon: researchgate
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/interdonatogiovanni/
     display:
       header: true
     label: "Follow me on LinkedIn "
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://twitter.com/gio_interdonato
+    label: Follow me on Twitter
+    display:
+      header: false
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/egioint
+    display:
+      header: false
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
