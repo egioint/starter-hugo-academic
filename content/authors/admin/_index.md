@@ -49,7 +49,10 @@ social:
       header: false
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_InterdonatoGiovanni_english_short_2310.pdf
+    display:
+      header: true
+    label: Check my résumé
 organizations:
   - name: University of Cassino and Southern Lazio
     url: https://www.unicas.it/
