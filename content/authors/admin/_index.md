@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/gio_interdonato
     label: Follow me on Twitter
@@ -20,19 +20,24 @@ social:
       header: false
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=CAWnjKEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/egioint
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/interdonatogiovanni/
+    display:
+      header: true
+    label: "Follow me on LinkedIn "
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
   - name: University of Cassino and Southern Lazio
     url: https://www.unicas.it/
+  - name: National Inter-University Consortium for Telecommunications (CNIT)
+    url: https://www.cnit.it/en/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -52,5 +57,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Gi is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+{style="text-align: justify;"} Giovanni Interdonato is an assistant professor at the Department of Electrical and Information Engineering of the University of Cassino and Southern Lazio, Cassino, Italy. In 2020, he received the Ph.D. degree in electrical engineering with specialization in communication systems from Linköping University, Linköping, Sweden. From October 2015 to October 2018, he was a researcher at the radio network department at Ericsson Research in Linköping, and a Marie Sklodowska-Curie research fellow of the H2020 ITN project “5Gwireless”. His main research interests lie in the field of wireless communications and signal processing, with focus on beyond-5G physical layer technologies and communication protocols. He co-invented +25 filed patent applications on massive MIMO technology.
