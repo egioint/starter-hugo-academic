@@ -47,7 +47,6 @@ sections:
           date_start: '2021-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
               * Research on beyond-5G physical layer technologies: Massive MIMO, reconfigurable intelligent surfaces, mmWave communications.
               * Course director, lecturer and examiner of the master level course _Digital signal processing_.
@@ -58,7 +57,9 @@ sections:
           location: Cassino, Italy
           date_start: '2021-09-01'
           date_end: ''
-          description: [**Meta Wireless**](https://h2020-msca-itn-metawireless.cnit.it) is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
+          description: 
+		  
+               *[**Meta Wireless**](https://h2020-msca-itn-metawireless.cnit.it) is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
         - title: Consultant
           company: Ericsson Research
           company_url: 'https://www.ericsson.com'
@@ -67,7 +68,6 @@ sections:
           date_start: '2018-10-26'
           date_end: '2020-10-31'
           description: |2-
-              Activities:
 
               * Development of novel signal processing algorithms and communication protocols for practical distributed massive MIMO deployments.
               * Cross-layer design of massive MIMO systems and wake-up receivers.
@@ -79,7 +79,6 @@ sections:
           date_start: '2015-10-26'
           date_end: '2018-10-25'
           description: |2-
-              Activities:
 
               * Development of novel signal processing algorithms and communication protocols for 5G NR systems.
               * Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments.
