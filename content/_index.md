@@ -50,7 +50,7 @@ sections:
               Responsibilities include:
 
               * Research on beyond-5G physical layer technologies: Massive MIMO, reconfigurable intelligent surfaces, mmWave communications.
-              * Course director, lecturer and examiner of the master level course Digital signal processing             
+              * Course director, lecturer and examiner of the master level course \"Digital signal processing\".     
         - title: Coordinator of the Meta Wireless Early Stage Researchers
           company: National Inter-University Consortium for Telecommunications (CNIT)
           company_url: 'https://www.cnit.it/'
@@ -66,13 +66,24 @@ sections:
           location: Linköping, Sweden
           date_start: '2018-10-26'
           date_end: '2020-10-31'
-        - title: Consultant
+          description: |2-
+			  Activities:
+			  
+			  * Development of novel signal processing algorithms and communication protocols for practical distributed massive MIMO deployments.
+			  * Cross-layer design of massive MIMO systems and wake-up receivers.
+        - title: Researcher
           company: Ericsson Research
           company_url: 'https://www.ericsson.com'
           company_logo: org-ericsson
           location: Linköping, Sweden
           date_start: '2015-10-26'
           date_end: '2018-10-25'
+          description: |2-
+			  Activities:
+		  
+			  * Development of novel signal processing algorithms and communication protocols for 5G _NR_ systems.
+			  * Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments. 
+			  * Co-inventor of the [Ericsson _Radio Stripes_](https://www.ericsson.com/en/blog/2019/2/radio-stripes).
     design:
       columns: '2'
   - block: accomplishments
