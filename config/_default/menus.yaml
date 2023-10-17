@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: CV
+    url: uploads/CV_InterdonatoGiovanni_english_short_2310.pdf
+    weight: 70    
   - name: Contact
     url: '#contact'
     weight: 60

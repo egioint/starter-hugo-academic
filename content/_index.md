@@ -11,7 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
+  <!-- - block: features
     content:
       title: Skills
       items:
@@ -26,7 +26,7 @@ sections:
         - name: Photography
           description: 10%
           icon: camera-retro
-          icon_pack: fas
+          icon_pack: fas -->
   - block: experience
     content:
       title: Experience
@@ -39,27 +39,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Assistant Professor
+          company: University of Cassino and Southern Lazio
+          company_url: 'https://www.unicas.it/'
+          company_logo: org-unicas
+          location: Cassino, Italy
+          date_start: '2021-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Research on beyond-5G physical layer technologies: Massive MIMO, reconfigurable intelligent surfaces, mmWave communications.
+              * Course director, lecturer and examiner of the master level course "Digital signal processing"              
+        - title: Coordinator of the "Meta Wireless" Early Stage Researchers
+          company: National Inter-University Consortium for Telecommunications (CNIT)
+          company_url: 'https://www.cnit.it/'
+          company_logo: org-cnit
+          location: CNIT Unit in Cassino, Italy
+          date_start: '2021-09-01'
+          date_end: ''
+          description: "Meta Wireless" is multi-partner European Training Network project, within the framework of
+the H2020 Marie Skłodowska-Curie Innovative Training Networks.
     design:
       columns: '2'
   - block: accomplishments
