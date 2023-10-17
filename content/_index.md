@@ -68,8 +68,20 @@ sections:
           date_end: '2020-10-31'
           description: |2-
 
-              * Development of novel signal processing algorithms and communication protocols for practical distributed massive MIMO deployments.
+              * Development of novel signal processing algorithms and communication protocols for distributed massive MIMO systems.
               * Cross-layer design of massive MIMO systems and wake-up receivers.
+        - title: Doctoral Student
+          company: Linköping University
+          company_url: 'https://www.liu.se'
+          company_logo: org-liu
+          location: Linköping, Sweden
+          date_start: '2015-10-26'
+          date_end: '2020-10-31'
+          description: |2-
+
+              * Analysis, design and optimization of smart and distributed device-centric cellular architectures with emphasis on 5G large-scale multiple-antenna technologies. 
+              * From 2018 to 2020, teaching assistant for the courses “Wireless Communications” and “Multiple Antenna Communications”, Master of Science in Engineering and Computer Sciences. In charge of tutorial and laboratory sessions and examiner of laboratory works.
+              * Ph.D. dissertation: ["Cell-Free Massive MIMO: Scalability, Signal Processing and Power Control"](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1448945).
         - title: Researcher
           company: Ericsson Research
           company_url: 'https://www.ericsson.com'
