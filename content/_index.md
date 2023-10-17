@@ -58,7 +58,7 @@ sections:
           location: Cassino, Italy
           date_start: '2021-09-01'
           date_end: ''
-          description: Meta Wireless is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
+          description: [Meta Wireless](https://h2020-msca-itn-metawireless.cnit.it/) is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
         - title: Consultant
           company: Ericsson Research
           company_url: 'https://www.ericsson.com'
@@ -82,7 +82,7 @@ sections:
               Activities:
 
               * Development of novel signal processing algorithms and communication protocols for 5G _NR_ systems.
-			  * Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments.
+              * Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments.
               * Co-inventor of the [Ericsson _Radio Stripes_](https://www.ericsson.com/en/blog/2019/2/radio-stripes).
     design:
       columns: '2'
