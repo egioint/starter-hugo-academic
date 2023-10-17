@@ -64,8 +64,8 @@ sections:
           company_url: 'https://www.ericsson.com'
           company_logo: org-ericsson
           location: Linköping, Sweden
-          date_start: '2018-10'
-          date_end: '2020-10'
+          date_start: '2018-10-26'
+          date_end: '2020-10-31'
           description: |2-
 				Activities:
 		  
@@ -76,8 +76,8 @@ sections:
           company_url: 'https://www.ericsson.com'
           company_logo: org-ericsson
           location: Linköping, Sweden
-          date_start: '2015-10'
-          date_end: '2018/10'
+          date_start: '2015-10-26'
+          date_end: '2018/10-25'
           description: |2-
 				Activities:
 		  
