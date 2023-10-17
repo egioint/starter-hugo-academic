@@ -50,7 +50,7 @@ sections:
               Responsibilities include:
 
               * Research on beyond-5G physical layer technologies: Massive MIMO, reconfigurable intelligent surfaces, mmWave communications.
-              * Course director, lecturer and examiner of the master level course ``Digital signal processing``              
+              * Course director, lecturer and examiner of the master level course \"Digital signal processing\"             
         - title: Coordinator of the Meta Wireless Early Stage Researchers
           company: National Inter-University Consortium for Telecommunications (CNIT)
           company_url: 'https://www.cnit.it/'
@@ -59,6 +59,27 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: Meta Wireless is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
+        - title: Consultant
+          company: Ericsson Research
+          company_url: 'https://www.ericsson.com'
+          company_logo: org-ericsson
+          location: Linköping, Sweden
+          date_start: '2018-10'
+          date_end: '2020-10'
+          description: |2-
+		    *Development of novel signal processing algorithms and communication protocols for practical distributed massive MIMO deployments.
+			*Cross-layer design of massive MIMO systems and wake-up receivers.
+        - title: Consultant
+          company: Ericsson Research
+          company_url: 'https://www.ericsson.com'
+          company_logo: org-ericsson
+          location: Linköping, Sweden
+          date_start: '2015-10'
+          date_end: '2018/10'
+          description: |2-
+		    *Development of novel signal processing algorithms and communication protocols for 5G _NR_ systems.
+			*Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments. 
+			*Co-inventor of the [Ericsson _Radio Stripes_](https://www.ericsson.com/en/blog/2019/2/radio-stripes)
     design:
       columns: '2'
   - block: accomplishments
