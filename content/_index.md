@@ -283,8 +283,8 @@ sections:
           captcha: true
       # Map
       coordinates:
-          latitude: '41.48827492802745'
-          longitude: '13.825776695186512'
+          latitude: '41.487920'
+          longitude: '13.825649'
     design:
       columns: '2'
 ---
