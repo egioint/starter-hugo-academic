@@ -58,8 +58,7 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: |2-
-		  
-               *[**Meta Wireless**](https://h2020-msca-itn-metawireless.cnit.it) is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
+              *[**Meta Wireless**](https://h2020-msca-itn-metawireless.cnit.it) is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
         - title: Consultant
           company: Ericsson Research
           company_url: 'https://www.ericsson.com'
