@@ -57,7 +57,7 @@ sections:
           location: Cassino, Italy
           date_start: '2021-09-01'
           date_end: ''
-          description: |2-
+          description: |-
               [**Meta Wireless**](https://h2020-msca-itn-metawireless.cnit.it) is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
         - title: Consultant
           company: Ericsson Research
@@ -242,7 +242,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please get in contact if you are interested in discussing research ideas, talking about data or code, or have any questions about my research.
       # Contact (add or remove contact options as necessary)
       email: giovanni.interdonato.phd@gmail.com
       # phone: 888 888 88 88
@@ -250,7 +250,7 @@ sections:
       address:
         street: Via Gaetano Di Biasio 43
         city: Cassino
-        # region: CA
+        region: FR
         postcode: 'I-03043'
         country: Italy
         country_code: IT
@@ -281,6 +281,10 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
+      # Map
+      coordinates:
+          latitude: '41.48827492802745'
+          longitude: '13.825776695186512'
     design:
       columns: '2'
 ---
