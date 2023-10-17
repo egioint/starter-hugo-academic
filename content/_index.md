@@ -58,8 +58,7 @@ sections:
           location: CNIT Unit in Cassino, Italy
           date_start: '2021-09-01'
           date_end: ''
-          description: Meta Wireless is multi-partner European Training Network project, within the framework of
-the H2020 Marie Sklodowska-Curie Innovative Training Networks.
+          description: Meta Wireless is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
     design:
       columns: '2'
   - block: accomplishments
