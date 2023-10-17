@@ -18,30 +18,35 @@ social:
     link: https://orcid.org/0000-0002-6078-835X
     icon_pack: fab
     icon: orcid
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=CAWnjKEAAAAJ&hl=en
   - display:
       header: false
     link: https://www.webofscience.com/wos/author/record/ABD-5061-2020
-    icon_pack: fas
-    icon: chart-simple
+    icon_pack: ai
+    icon: clarivate
+  - display:
+      header: false
+    link: https://www.scopus.com/authid/detail.uri?authorId=49961401400
+    icon_pack: ai
+    icon: scopus	
   - display:
       header: false
     link: https://arxiv.org/a/interdonato_g_1
-    icon_pack: fas
-    icon: book
+    icon_pack: ai
+    icon: arxiv
   - display:
       header: false
     link: https://www.researchgate.net/profile/Giovanni-Interdonato
-    icon_pack: fab
+    icon_pack: ai
     icon: researchgate
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/interdonatogiovanni/
     display:
       header: true
-    label: "Follow me on LinkedIn "
+    label: "Follow me on LinkedIn"
   - icon: github
     icon_pack: fab
     link: https://github.com/egioint
@@ -67,10 +72,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Interdonato
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Giovanni
+email: "giovanni.interdonato.phd@gmail.com"
 ---
 Giovanni Interdonato is an assistant professor at the Department of Electrical and Information Engineering of the University of Cassino and Southern Lazio, Cassino, Italy. In 2020, he received the Ph.D. degree in electrical engineering with specialization in communication systems from Linköping University, Sweden. From 2015 to 2018, he was a researcher at the radio network department at Ericsson Research in Linköping, and a Marie Sklodowska-Curie research fellow of the H2020 ITN project "5Gwireless". His main research interests lie in the field of wireless communications and signal processing, with focus on beyond-5G physical layer technologies and communication protocols. He co-invented +25 filed patent applications on massive MIMO technology.
 {style="text-align: justify;"}
