@@ -98,7 +98,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      # title: 'Accomplish&shy;ments'
+      # title: ['Accomplish&shy;ments']
 	  title: Grants and Awards
       subtitle: Testing subtitle
       # Date format: https://wowchemy.com/docs/customization/#date-format
