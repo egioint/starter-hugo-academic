@@ -50,8 +50,8 @@ sections:
               Responsibilities include:
 
               * Research on beyond-5G physical layer technologies: Massive MIMO, reconfigurable intelligent surfaces, mmWave communications.
-              * Course director, lecturer and examiner of the master level course Digital signal processing.
-        - title: Coordinator of the Meta Wireless Early Stage Researchers
+              * Course director, lecturer and examiner of the master level course _Digital signal processing_.
+        - title: Coordinator of the **Meta Wireless** Early Stage Researchers
           company: National Inter-University Consortium for Telecommunications
           company_url: 'https://www.cnit.it/'
           company_logo: org-cnit
