@@ -67,6 +67,7 @@ sections:
           date_start: '2018-10'
           date_end: '2020-10'
           description: |2-
+		  
 		    *Development of novel signal processing algorithms and communication protocols for practical distributed massive MIMO deployments.
 			*Cross-layer design of massive MIMO systems and wake-up receivers.
         - title: Consultant
@@ -77,6 +78,7 @@ sections:
           date_start: '2015-10'
           date_end: '2018/10'
           description: |2-
+		  
 		    *Development of novel signal processing algorithms and communication protocols for 5G _NR_ systems.
 			*Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments. 
 			*Co-inventor of the [Ericsson _Radio Stripes_](https://www.ericsson.com/en/blog/2019/2/radio-stripes)
