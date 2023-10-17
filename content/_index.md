@@ -72,7 +72,7 @@ sections:
           company_logo: org-ericsson
           location: Linköping, Sweden
           date_start: '2015-10-26'
-          date_end: '2018/10-25'
+          date_end: '2018-10-25'
     design:
       columns: '2'
   - block: accomplishments
