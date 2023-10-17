@@ -49,7 +49,7 @@ sections:
           description: |2-
 
               * Research on beyond-5G physical layer technologies: Massive MIMO, reconfigurable intelligent surfaces, mmWave communications.
-              * Course director, lecturer and examiner of the course _Digital signal processing_, Master of Science in Telecommunications Engineering (LM-27).
+              * Course director, lecturer and examiner of the course “Digital signal processing”, Master of Science in Telecommunications Engineering (LM-27).
         - title: Coordinator of the **Meta Wireless** Early Stage Researchers
           company: National Inter-University Consortium for Telecommunications
           company_url: 'https://www.cnit.it/'
@@ -80,7 +80,7 @@ sections:
           description: |2-
 
               * Analysis, design and optimization of smart and distributed device-centric cellular architectures with emphasis on 5G large-scale multiple-antenna technologies. 
-              * From 2018 to 2020, teaching assistant for the courses “Wireless Communications” and “Multiple Antenna Communications”, Master of Science in Engineering and Computer Sciences. In charge of tutorial and laboratory sessions and examiner of laboratory works.
+              * From 2018 to 2020, teaching assistant for the courses “Wireless Communications” and “Multiple Antenna Communications”, Master of Science in Engineering and Computer Sciences. In charge of tutorial and lab sessions. Examiner of laboratory works.
               * Ph.D. dissertation: ["Cell-Free Massive MIMO: Scalability, Signal Processing and Power Control"](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1448945).
         - title: Researcher
           company: Ericsson Research

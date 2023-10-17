@@ -45,8 +45,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/interdonatogiovanni/
     display:
-      header: true
-    label: "Follow me on LinkedIn"
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/egioint
@@ -56,8 +55,7 @@ social:
     icon_pack: ai
     link: uploads/CV_InterdonatoGiovanni_english_short_2310.pdf
     display:
-      header: true
-    label: Check my résumé
+      header: false
 organizations:
   - name: University of Cassino and Southern Lazio
     url: https://www.unicas.it/
