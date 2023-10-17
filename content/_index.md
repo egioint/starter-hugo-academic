@@ -52,10 +52,10 @@ sections:
               * Research on beyond-5G physical layer technologies: Massive MIMO, reconfigurable intelligent surfaces, mmWave communications.
               * Course director, lecturer and examiner of the master level course \"Digital signal processing\".
         - title: Coordinator of the Meta Wireless Early Stage Researchers
-          company: National Inter-University Consortium for Telecommunications (CNIT)
+          company: National Inter-University Consortium for Telecommunications
           company_url: 'https://www.cnit.it/'
           company_logo: org-cnit
-          location: CNIT Unit in Cassino, Italy
+          location: Cassino, Italy
           date_start: '2021-09-01'
           date_end: ''
           description: Meta Wireless is multi-partner European Training Network project, within the framework of the H2020 Marie Sklodowska-Curie Innovative Training Networks.
@@ -83,8 +83,7 @@ sections:
 
               * Development of novel signal processing algorithms and communication protocols for 5G _NR_ systems.
 			  * Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments.
-			  * Co-inventor of the [Ericsson _Radio Stripes_](https://www.ericsson.com/en/blog/2019/2/radio-stripes).
-              * Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments.
+              * Co-inventor of the [Ericsson _Radio Stripes_](https://www.ericsson.com/en/blog/2019/2/radio-stripes).
     design:
       columns: '2'
   - block: accomplishments
