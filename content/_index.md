@@ -109,21 +109,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          date_start: '2023-02-18'
+          description: 2022 Exemplary Editor of the international journal _IEEE Communications Letters_.
+          organization: IEEE Communications Society
+          organization_url: https://www.comsoc.org/
+          title: COMML Exemplary Editor
+          icon:org-ieee		  
+          url: https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation
         - certificate_url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
           date_end: ''
-          date_start: '2022-03-01'
+          date_start: '2022-03-07'
           description: 2021 Exemplary Reviewer of the international journal _IEEE Transactions on Communications_.
           organization: IEEE Communications Society
           organization_url: https://www.comsoc.org/
-          title: TCOM Exemplary Reviewer 
+          title: TCOM Exemplary Reviewer
+          icon:org-ieee
           url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
