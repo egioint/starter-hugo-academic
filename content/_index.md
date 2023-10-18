@@ -158,7 +158,8 @@ sections:
           title: H2020 MSCA Doctoral fellowship
           url: 'http://www.h2020-msca-etn-5gwireless.eu/'
     design:
-      columns: '4'
+      columns: '1'
+	  view: showcase
   - block: collection
     id: posts
     content:
