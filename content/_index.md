@@ -159,7 +159,7 @@ sections:
           url: 'http://www.h2020-msca-etn-5gwireless.eu/'
     design:
       columns: '1'
-	  view: showcase
+      view: showcase
   - block: collection
     id: posts
     content:
