@@ -42,7 +42,7 @@ sections:
         - title: Assistant Professor
           company: University of Cassino and Southern Lazio
           company_url: 'https://www.unicas.it/'
-          company_logo: org-unicas
+          company_logo: org-unicas-large
           location: Cassino, Italy
           date_start: '2021-03-01'
           date_end: ''
@@ -53,7 +53,7 @@ sections:
         - title: Coordinator of the **Meta Wireless** Early Stage Researchers
           company: National Inter-University Consortium for Telecommunications
           company_url: 'https://www.cnit.it/'
-          company_logo: org-cnit
+          company_logo: org-cnit-large
           location: Cassino, Italy
           date_start: '2021-09-01'
           date_end: ''
