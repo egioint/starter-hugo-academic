@@ -62,7 +62,7 @@ sections:
         - title: Consultant
           company: Ericsson Research
           company_url: 'https://www.ericsson.com'
-          company_logo: org-ericsson
+          company_logo: ericsson
           location: Linköping, Sweden
           date_start: '2018-10-26'
           date_end: '2020-10-31'
@@ -85,7 +85,7 @@ sections:
         - title: Researcher
           company: Ericsson Research
           company_url: 'https://www.ericsson.com'
-          company_logo: org-ericsson
+          company_logo: ericsson
           location: Linköping, Sweden
           date_start: '2015-10-26'
           date_end: '2018-10-25'
@@ -125,14 +125,14 @@ sections:
           organization_url: https://www.comsoc.org/
           title: TCOM Exemplary Reviewer
           url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-05-03'
+          description: Research grant from the Ericsson Research Foundation financing the attendance at the 2019 IEEE ICC in Shanghai, China.
+          organization: Ericsson
+          organization_url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
+          title: Grant from the Ericsson Research Foundation
+          url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
     design:
       columns: '2'
   - block: collection
