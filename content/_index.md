@@ -133,6 +133,14 @@ sections:
           organization_url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
           title: Grant from the Ericsson Research Foundation
           url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
+        - certificate_url: ''
+          date_end: '2025-09-26'
+          date_start: '2023-09-28'
+          description: Research grant from the Italian Ministry of University and Research within the programme ["Projects of Relevant National Interest"] (PRIN 2022). *Role*: Associated Investigator and substitute PI, project n. 20227N3SPN [_"RAIN4C"_]. *Budget*: ~200k €. 
+          organization: Italian Ministry of University and Research
+          organization_url: https://www.mur.gov.it
+          title: Competitive grant from the Italian Ministry of University and Research
+          url: https://www.mur.gov.it/sites/default/files/2023-06/Decreto%20Direttoriale%20n.%20861%20PE6_AllegatoB.pdf
     design:
       columns: '2'
   - block: collection
