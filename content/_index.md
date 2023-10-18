@@ -42,7 +42,7 @@ sections:
         - title: Assistant Professor
           company: University of Cassino and Southern Lazio
           company_url: 'https://www.unicas.it/'
-          company_logo: org-unicas-large
+          company_logo: university_of_cassino_and_southern_lazio
           location: Cassino, Italy
           date_start: '2021-03-01'
           date_end: ''
@@ -136,11 +136,19 @@ sections:
         - certificate_url: ''
           date_end: '2025-09-26'
           date_start: '2023-09-28'
-          description: Research grant from the Italian Ministry of University and Research (MUR) within the programme “Projects of Relevant National Interest” (PRIN 2022). **Role:** Associated Investigator and substitute PI, project n. 20227N3SPN _“RAIN4C”_. **Budget:** ~200k €. 
+          description: Research grant from the Italian Ministry of University and Research (MUR) within the funding programme _“Projects of Relevant National Interest”_ (PRIN 2022). **Role:** Associated Investigator and substitute PI of the project n. 20227N3SPN _“RAIN4C”_. 
           organization: Italian Ministry of University and Research
           organization_url: https://www.mur.gov.it
           title: Competitive research grant MUR PRIN 2022
           url: https://www.mur.gov.it/sites/default/files/2023-06/Decreto%20Direttoriale%20n.%20861%20PE6_AllegatoB.pdf
+        - certificate_url: ''
+          date_end: '2021-01-01'
+          date_start: '2021-02-28'
+          description: Post-doctoral fellowship financing research activities on _“User-centric wireless communication systems operating at the mmWave bands”_. 
+          organization: University of Cassino and Southern Lazio
+          organization_url: https://www.unicas.it
+          title: Post-doctoral fellowship
+          url: ''
     design:
       columns: '2'
   - block: collection
