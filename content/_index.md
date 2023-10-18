@@ -136,10 +136,10 @@ sections:
         - certificate_url: ''
           date_end: '2025-09-26'
           date_start: '2023-09-28'
-          description: '' 
+          description: Research grant from the Italian Ministry of University and Research (MUR) within the programme “Projects of Relevant National Interest” (PRIN 2022). *Role*: Associated Investigator and substitute PI, project n. 20227N3SPN _“RAIN4C”_. *Budget*: ~200k €. 
           organization: Italian Ministry of University and Research
           organization_url: https://www.mur.gov.it
-          title: Competitive grant from the Italian Ministry of University and Research
+          title: Competitive research grant MUR PRIN 2022
           url: https://www.mur.gov.it/sites/default/files/2023-06/Decreto%20Direttoriale%20n.%20861%20PE6_AllegatoB.pdf
     design:
       columns: '2'
