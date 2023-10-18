@@ -158,9 +158,7 @@ sections:
           title: H2020 MSCA Doctoral fellowship
           url: 'http://www.h2020-msca-etn-5gwireless.eu/'
     design:
-      columns: '1'
-      view: showcase
-      flip_alt_rows: true
+      columns: '2'
   - block: collection
     id: posts
     content:
@@ -214,7 +212,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: markdown
     content:
       title: Gallery
