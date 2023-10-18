@@ -98,7 +98,8 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      # title: 'Accomplish&shy;ments'
+      title: Grants and Awards
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -116,14 +117,14 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2022-03-01'
+          description: 2021 Exemplary Reviewer of the international journal _IEEE Transactions on Communications_.
+          organization: IEEE Communications Society
+          organization_url: https://www.comsoc.org/
+          title: TCOM Exemplary Reviewer 
+          url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
