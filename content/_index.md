@@ -212,7 +212,7 @@ sections:
       columns: '1'
       view: card
       # For Showcase view, flip alternate rows?
-      # flip_alt_rows: true
+      flip_alt_rows: true
   - block: markdown
     content:
       title: Gallery
