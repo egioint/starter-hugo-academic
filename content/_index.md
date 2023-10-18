@@ -152,13 +152,13 @@ sections:
         - certificate_url: ''
           date_end: '2018-10-25'
           date_start: '2015-10-26'
-          description: Marie Skłodowska-Curie Actions (MSCA) doctoral fellowship, within the framework _Horizon 2020_, financing research activities on _“Innovative architectures, wireless technologies and tools for high capacity and sustainable 5G ultra-dense cellular networks”_. **Role:** Early stage researcher of the project n. 641985 _“5Gwireless”_.  
+          description: Marie Skłodowska-Curie Actions (MSCA) doctoral fellowship, within the framework _Horizon 2020_, financing research activities on _“Innovative architectures, wireless technologies and tools for high capacity and sustainable 5G ultra-dense cellular networks”_. **Role:** Early stage researcher of the project n. 641985 _“5Gwireless”_. **Host Institution:** Ericsson AB, Linköping, Sweden.  
           organization: European Commission, Directorate-General for Education, Youth, Sport and Culture
           organization_url: https://marie-sklodowska-curie-actions.ec.europa.eu/
           title: H2020 MSCA Doctoral fellowship
           url: 'http://www.h2020-msca-etn-5gwireless.eu/'
     design:
-      columns: '2'
+      columns: '4'
   - block: collection
     id: posts
     content:
