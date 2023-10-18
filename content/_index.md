@@ -116,7 +116,7 @@ sections:
           organization: IEEE Communications Society
           organization_url: https://www.comsoc.org/
           title: COMML Exemplary Editor
-          icon: org-ieee		  
+          organization_logo: org-ieee		  
           url: https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation
         - certificate_url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
           date_end: ''
@@ -125,7 +125,7 @@ sections:
           organization: IEEE Communications Society
           organization_url: https://www.comsoc.org/
           title: TCOM Exemplary Reviewer
-          icon: org-ieee
+          organization_logo: org-ieee
           url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
