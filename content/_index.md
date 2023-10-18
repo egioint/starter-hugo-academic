@@ -159,6 +159,7 @@ sections:
           url: 'http://www.h2020-msca-etn-5gwireless.eu/'
     design:
       columns: '2'
+      view: ''	  
   - block: collection
     id: posts
     content:
@@ -209,7 +210,8 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
+      # view: showcase
       view: ''
       # For Showcase view, flip alternate rows?
       # flip_alt_rows: true
