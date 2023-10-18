@@ -160,6 +160,7 @@ sections:
     design:
       columns: '1'
       view: showcase
+      flip_alt_rows: false
   - block: collection
     id: posts
     content:
