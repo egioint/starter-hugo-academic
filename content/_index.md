@@ -109,7 +109,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-	  id: publications
+      id: publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
