@@ -107,9 +107,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
-      id: publications
+      title: Recent Publications      
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -234,9 +234,9 @@ sections:
       columns: '2'
       view: ''	  
   - block: markdown
+    id: gallery
     content:
-      title: Gallery
-      id: gallery
+      title: Gallery      
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
