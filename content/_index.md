@@ -1,7 +1,3 @@
-[[gallery_item]]
-  album = "demo"
-  image = "chris-montgomery-smgTvepind4-unsplash.jpg"
-  caption = "Write your image 1 caption here"
 ---
 # Leave the homepage title empty to use the site title
 title:
