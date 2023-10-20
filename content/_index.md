@@ -232,7 +232,7 @@ sections:
           url: 'http://www.h2020-msca-etn-5gwireless.eu/'
     design:
       columns: '2'
-      view: ''	  
+      view: ''
   - block: markdown
     id: gallery
     content:
