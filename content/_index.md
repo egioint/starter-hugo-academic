@@ -319,5 +319,10 @@ sections:
           latitude: '41.487920'
           longitude: '13.825649'
     design:
-      columns: '2'	  
+      columns: '2'
+
+gallery_item:  
+  - album: 'demo'
+     image: 'hris-montgomery-smgTvepind4-unsplash.jpg'
+     caption: 'Write your image caption here'
 ---
