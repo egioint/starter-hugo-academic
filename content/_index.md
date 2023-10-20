@@ -95,71 +95,6 @@ sections:
               * Development of flexible, cost-efficient architectures for practical distributed massive MIMO deployments. Co-inventor of the [Ericsson Radio Stripes](https://www.ericsson.com/en/blog/2019/2/radio-stripes).
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      # title: 'Accomplish&shy;ments'
-      title: Grants and Awards
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation
-          date_end: ''
-          date_start: '2023-02-18'
-          description: 2022 Exemplary Editor of the international journal _IEEE Communications Letters_.
-          organization: IEEE Communications Society
-          organization_url: https://www.comsoc.org/
-          title: COMML Exemplary Editor
-          url: https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation
-        - certificate_url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
-          date_end: ''
-          date_start: '2022-03-07'
-          description: 2021 Exemplary Reviewer of the international journal _IEEE Transactions on Communications_.
-          organization: IEEE Communications Society
-          organization_url: https://www.comsoc.org/
-          title: TCOM Exemplary Reviewer
-          url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2019-05-03'
-          description: Research grant from the Ericsson Research Foundation financing the attendance at the 2019 IEEE ICC in Shanghai, China.
-          organization: Ericsson
-          organization_url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
-          title: Grant from the Ericsson Research Foundation
-          url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
-        - certificate_url: ''
-          date_end: '2025-09-26'
-          date_start: '2023-09-28'
-          description: Research grant from the Italian Ministry of University and Research (MUR) within the funding programme _“Projects of Relevant National Interest”_ (PRIN 2022). **Role:** Associated Investigator and substitute PI of the project n. 20227N3SPN _“RAIN4C”_. 
-          organization: Italian Ministry of University and Research
-          organization_url: https://www.mur.gov.it
-          title: Competitive research grant MUR PRIN 2022
-          url: https://www.mur.gov.it/sites/default/files/2023-06/Decreto%20Direttoriale%20n.%20861%20PE6_AllegatoB.pdf
-        - certificate_url: ''
-          date_end: '2021-01-01'
-          date_start: '2021-02-28'
-          description: Post-doctoral fellowship financing research activities on _“User-centric wireless communication systems operating at the mmWave bands”_. 
-          organization: University of Cassino and Southern Lazio
-          organization_url: https://www.unicas.it
-          title: Post-doctoral fellowship
-          url: ''
-        - certificate_url: ''
-          date_end: '2018-10-25'
-          date_start: '2015-10-26'
-          description: Marie Skłodowska-Curie Actions (MSCA) doctoral fellowship, within the framework _Horizon 2020_, financing research activities on _“Innovative architectures, wireless technologies and tools for high capacity and sustainable 5G ultra-dense cellular networks”_. **Role:** Early stage researcher of the project n. 641985 _“5Gwireless”_. **Host Institution:** Ericsson AB, Linköping, Sweden.  
-          organization: European Commission, Directorate-General for Education, Youth, Sport and Culture
-          organization_url: https://marie-sklodowska-curie-actions.ec.europa.eu/
-          title: H2020 MSCA Doctoral fellowship
-          url: 'http://www.h2020-msca-etn-5gwireless.eu/'
-    design:
-      columns: '2'
-      view: ''
   - block: collection
     id: featured
     content:
@@ -232,6 +167,71 @@ sections:
       view: ''
       # For Showcase view, flip alternate rows?
       # flip_alt_rows: true
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      # title: 'Accomplish&shy;ments'
+      title: Grants and Awards
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation
+          date_end: ''
+          date_start: '2023-02-18'
+          description: 2022 Exemplary Editor of the international journal _IEEE Communications Letters_.
+          organization: IEEE Communications Society
+          organization_url: https://www.comsoc.org/
+          title: COMML Exemplary Editor
+          url: https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation
+        - certificate_url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
+          date_end: ''
+          date_start: '2022-03-07'
+          description: 2021 Exemplary Reviewer of the international journal _IEEE Transactions on Communications_.
+          organization: IEEE Communications Society
+          organization_url: https://www.comsoc.org/
+          title: TCOM Exemplary Reviewer
+          url: https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-05-03'
+          description: Research grant from the Ericsson Research Foundation financing the attendance at the 2019 IEEE ICC in Shanghai, China.
+          organization: Ericsson
+          organization_url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
+          title: Grant from the Ericsson Research Foundation
+          url: https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/sweden/ericsson-research-foundation
+        - certificate_url: ''
+          date_end: '2025-09-26'
+          date_start: '2023-09-28'
+          description: Research grant from the Italian Ministry of University and Research (MUR) within the funding programme _“Projects of Relevant National Interest”_ (PRIN 2022). **Role:** Associated Investigator and substitute PI of the project n. 20227N3SPN _“RAIN4C”_. 
+          organization: Italian Ministry of University and Research
+          organization_url: https://www.mur.gov.it
+          title: Competitive research grant MUR PRIN 2022
+          url: https://www.mur.gov.it/sites/default/files/2023-06/Decreto%20Direttoriale%20n.%20861%20PE6_AllegatoB.pdf
+        - certificate_url: ''
+          date_end: '2021-01-01'
+          date_start: '2021-02-28'
+          description: Post-doctoral fellowship financing research activities on _“User-centric wireless communication systems operating at the mmWave bands”_. 
+          organization: University of Cassino and Southern Lazio
+          organization_url: https://www.unicas.it
+          title: Post-doctoral fellowship
+          url: ''
+        - certificate_url: ''
+          date_end: '2018-10-25'
+          date_start: '2015-10-26'
+          description: Marie Skłodowska-Curie Actions (MSCA) doctoral fellowship, within the framework _Horizon 2020_, financing research activities on _“Innovative architectures, wireless technologies and tools for high capacity and sustainable 5G ultra-dense cellular networks”_. **Role:** Early stage researcher of the project n. 641985 _“5Gwireless”_. **Host Institution:** Ericsson AB, Linköping, Sweden.  
+          organization: European Commission, Directorate-General for Education, Youth, Sport and Culture
+          organization_url: https://marie-sklodowska-curie-actions.ec.europa.eu/
+          title: H2020 MSCA Doctoral fellowship
+          url: 'http://www.h2020-msca-etn-5gwireless.eu/'
+    design:
+      columns: '2'
+      view: ''	  
   - block: markdown
     content:
       title: Gallery
