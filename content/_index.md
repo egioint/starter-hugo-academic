@@ -321,8 +321,8 @@ sections:
     design:
       columns: '2'
 
-    gallery_item:  
-      - album: demo
-        image: chris-montgomery-smgTvepind4-unsplash.jpg
-        caption: Write your image caption here
+gallery_item:  
+  - album: demo
+    image: "chris-montgomery-smgTvepind4-unsplash.jpg"
+    caption: Write your image caption here
 ---
