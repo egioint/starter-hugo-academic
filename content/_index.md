@@ -232,14 +232,21 @@ sections:
           url: 'http://www.h2020-msca-etn-5gwireless.eu/'
     design:
       columns: '2'
-      view: ''
+      view: ''	  
   - block: markdown
     id: gallery
     content:
-      title: Gallery
+      title: Gallery      
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}
+      gallery_item:
+        - album: demo
+          image: "chris-montgomery-smgTvepind4-unsplash.jpg"
+          caption: "Write your image 1 caption here"
+      - album: demo
+        image: "dan-gold-4_jhDO54BYg-unsplash-f.jpg"
+        caption: "Write your image 2 caption here"
     design:
       columns: '1'
   - block: collection
@@ -320,12 +327,4 @@ sections:
           longitude: '13.825649'
     design:
       columns: '2'
-
-gallery_item:
-     - album: demo
-       image: chris-montgomery-smgTvepind4-unsplash.jpg
-       caption: Write your image 1 caption here
-     - album: demo
-       image: dan-gold-4_jhDO54BYg-unsplash-f.jpg
-       caption: Write your image 2 caption here
 ---
