@@ -235,6 +235,7 @@ sections:
   - block: markdown
     content:
       title: Gallery
+      id: gallery	  
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
