@@ -322,6 +322,6 @@ sections:
       columns: '2'
     gallery_item:  
       - album: 'demo'
-        image: 'hris-montgomery-smgTvepind4-unsplash.jpg'
+        image: 'chris-montgomery-smgTvepind4-unsplash.jpg'
         caption: 'Write your image caption here'
 ---
