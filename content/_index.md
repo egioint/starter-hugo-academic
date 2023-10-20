@@ -320,11 +320,8 @@ sections:
           longitude: '13.825649'
     design:
       columns: '2'
-gallery_item:
-   - album: demo
-     image: "chris-montgomery-smgTvepind4-unsplash.jpg"
-     caption: "Write your image 1 caption here"
-   - album: demo
-     image: "dan-gold-4_jhDO54BYg-unsplash-f.jpg"
-     caption: "Write your image 2 caption here"
 ---
+[[gallery_item]]
+  album = "demo"
+  image = "chris-montgomery-smgTvepind4-unsplash.jpg"
+  caption = "Write your image 1 caption here"
