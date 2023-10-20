@@ -239,8 +239,8 @@ sections:
       id: gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}} 
-	design:
+        {{< gallery album="demo" >}}
+    design:
       columns: '1'
   - block: collection
     id: posts
