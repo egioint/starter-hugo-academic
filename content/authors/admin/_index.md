@@ -30,7 +30,7 @@ social:
       header: false
     link: https://www.scopus.com/authid/detail.uri?authorId=49961401400
     icon_pack: ai
-    icon: scopus	
+    icon: scopus
   - display:
       header: false
     link: https://arxiv.org/a/interdonato_g_1
@@ -61,10 +61,10 @@ organizations:
     url: https://www.unicas.it/
 education:
   courses:
-    - course: PhD in Electrical Engineering
+    - course: Ph.D. in Electrical Engineering
       institution: Linköping University, Sweden
       year: 2020
-    - course: MSc in Computer and Telecommunication Systems Engineering
+    - course: M.Sc. in Computer and Telecommunication Systems Engineering
       institution: Mediterranea University of Reggio Calabria, Italy
       year: 2015
 superuser: true
@@ -73,7 +73,7 @@ status:
 last_name: Interdonato
 highlight_name: true
 first_name: Giovanni
-email: "giovanni.interdonato.phd@gmail.com"
+email: giovanni.interdonato.phd@gmail.com
 ---
 Giovanni Interdonato is an assistant professor at the Department of Electrical and Information Engineering of the University of Cassino and Southern Lazio, Cassino, Italy. In 2020, he received the Ph.D. degree in electrical engineering with specialization in communication systems from Linköping University, Sweden. From 2015 to 2018, he was a researcher at the radio network department at Ericsson Research in Linköping, and a Marie Sklodowska-Curie research fellow of the H2020 ITN project "5Gwireless". His main research interests lie in the field of wireless communications and signal processing, with focus on beyond-5G physical layer technologies and communication protocols. He co-invented +25 filed patent applications on massive MIMO technology.
 {style="text-align: justify;"}
