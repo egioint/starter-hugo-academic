@@ -62,7 +62,8 @@ tags:
 projects:
   - 5Gsumma
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: An illustrative example of the non-orthogonal coexistence between the
+    eMBB and the URLLC in the downlink of a multi-cell massive MIMO system.
   focal_point: CENTER
   preview_only: false
   alt_text: "eMBB services (orange links) require high-peak data-rate and stable
@@ -73,6 +74,7 @@ image:
     reality, cellular vehicle-to-everything (C- V2X) use cases for intelligent
     transportation systems, or factory automation use cases for the \\Industry
     4.0\"."
+  filename: featured.png
 date: 2023-10-26T18:08:33.028Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
