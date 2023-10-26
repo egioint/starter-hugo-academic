@@ -44,9 +44,14 @@ authors:
   - Luca Venturino
 author_notes: []
 publication: In *2023 IEEE Wireless Communications and Networking Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: "eMBB services (orange links) require high-peak data-rate and stable
+  connectivity, and include most of the everyday usage applications:
+  entertainment, multimedia, web-sur\fng, etc. URLLC services (blue links)
+  require an one-way radio latency of 1 ms with 99.999% success probability, and
+  include real-time and time-critical applications, e.g., augmented reality,
+  cellular vehicle-to-everything (C- V2X) use cases for intelligent
+  transportation systems, or factory automation use cases for the Industry
+  4.0\"."
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 publication_short: In *WCNC*
@@ -58,7 +63,7 @@ featured: true
 tags:
   - Enhanced Mobile Broadband
   - Massive MIMO
-  - Ultra-Reliable Low-Latency Communications.
+  - Ultra-Reliable Low-Latency Communications
 projects:
   - 5Gsumma
 image:
@@ -66,16 +71,9 @@ image:
     eMBB and the URLLC in the downlink of a multi-cell massive MIMO system.
   focal_point: CENTER
   preview_only: false
-  alt_text: "eMBB services (orange links) require high-peak data-rate and stable
-    connectivity, and include most of the everyday usage applications:
-    entertainment, multimedia, web-sur\fng, etc. URLLC services (blue links)
-    require an one-way radio latency of 1 ms with 99.999% success probability,
-    and include real-time and time-critical applications, e.g., augmented
-    reality, cellular vehicle-to-everything (C- V2X) use cases for intelligent
-    transportation systems, or factory automation use cases for the \\Industry
-    4.0\"."
+  alt_text: ""
   filename: featured.png
-date: 2023-10-26T18:08:33.028Z
+date: 2023-10-26T18:15:59.085Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
