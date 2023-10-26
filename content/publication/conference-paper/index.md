@@ -39,7 +39,6 @@ publication_types:
   - "1"
 authors:
   - admin
-  - ""
   - Stefano Buzzi
   - Carmen D’Andrea
   - Luca Venturino
@@ -76,7 +75,7 @@ image:
     4.0\"."
 date: 2023-10-26T18:08:33.028Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
