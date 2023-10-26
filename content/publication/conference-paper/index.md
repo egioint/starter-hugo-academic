@@ -1,86 +1,88 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: The non-orthogonal coexistence between the enhanced mobile broadband
+  (eMBB) and the ultra-reliable low-latency communication (URLLC) in the
+  downlink of a multi-cell massive MIMO system is investigated in this work. We
+  provide a unified information-theoretic framework blending an
+  infinite-blocklength analysis of the eMBB spectral efficiency (SE) in the
+  ergodic regime with a finite-blocklength analysis of the URLLC error
+  probability. Puncturing (PUNC) and superposition coding (SPC) are considered
+  as alternative coexistence strategies to deal with the inter-service
+  interference. eMBB and URLLC performances are then evaluated over different
+  precoding techniques and power control schemes, by accounting for imperfect
+  channel state information knowledge at the base stations, pilot-based
+  estimation overhead, spatially correlated channels, and the structure of the
+  radio frame. Simulation results reveal that SPC is, in many operating regimes,
+  superior to PUNC in providing higher SE for the eMBB yet achieving the target
+  reliability for the URLLC with high probability. However, PUNC turns to be
+  necessary to preserve the URLLC performance in scenarios where the multi-user
+  interference cannot be satisfactorily alleviated.The non-orthogonal
+  coexistence between the enhanced mobile broadband (eMBB) and the
+  ultra-reliable low-latency communication (URLLC) in the downlink of a
+  multi-cell massive MIMO system is investigated in this work. We provide a
+  unified information-theoretic framework blending an infinite-blocklength
+  analysis of the eMBB spectral efficiency (SE) in the ergodic regime with a
+  finite-blocklength analysis of the URLLC error probability. Puncturing (PUNC)
+  and superposition coding (SPC) are considered as alternative coexistence
+  strategies to deal with the inter-service interference. eMBB and URLLC
+  performances are then evaluated over different precoding techniques and power
+  control schemes, by accounting for imperfect channel state information
+  knowledge at the base stations, pilot-based estimation overhead, spatially
+  correlated channels, and the structure of the radio frame. Simulation results
+  reveal that SPC is, in many operating regimes, superior to PUNC in providing
+  higher SE for the eMBB yet achieving the target reliability for the URLLC with
+  high probability. However, PUNC turns to be necessary to preserve the URLLC
+  performance in scenarios where the multi-user interference cannot be
+  satisfactorily alleviated.
+slides: example
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - ""
+  - Stefano Buzzi
+  - Carmen D’Andrea
+  - Luca Venturino
+author_notes: []
+publication: In *2023 IEEE Wireless Communications and Networking Conference*
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: In *WCNC*
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: Non-Orthogonal Multiplexing of eMBB and URLLC in Multi-cell Massive MIMO
+doi: https://doi.org/10.1109/WCNC55385.2023.10119121
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags:
+  - Enhanced Mobile Broadband
+  - Massive MIMO
+  - Ultra-Reliable Low-Latency Communications.
 projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  - 5Gsumma
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: CENTER
+  preview_only: false
+  alt_text: "eMBB services (orange links) require high-peak data-rate and stable
+    connectivity, and include most of the everyday usage applications:
+    entertainment, multimedia, web-sur\fng, etc. URLLC services (blue links)
+    require an one-way radio latency of 1 ms with 99.999% success probability,
+    and include real-time and time-critical applications, e.g., augmented
+    reality, cellular vehicle-to-everything (C- V2X) use cases for intelligent
+    transportation systems, or factory automation use cases for the \\Industry
+    4.0\"."
+date: 2023-10-26T18:08:33.028Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
