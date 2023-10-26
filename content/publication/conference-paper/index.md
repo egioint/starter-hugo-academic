@@ -63,7 +63,7 @@ featured: true
 tags:
   - Enhanced Mobile Broadband
   - Massive MIMO
-  - Ultra-Reliable Low-Latency Communications
+  - Ultra Reliable Low Latency Communications
 projects:
   - 5Gsumma
 image:
