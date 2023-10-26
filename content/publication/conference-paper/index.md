@@ -15,28 +15,11 @@ abstract: The non-orthogonal coexistence between the enhanced mobile broadband
   superior to PUNC in providing higher SE for the eMBB yet achieving the target
   reliability for the URLLC with high probability. However, PUNC turns to be
   necessary to preserve the URLLC performance in scenarios where the multi-user
-  interference cannot be satisfactorily alleviated.The non-orthogonal
-  coexistence between the enhanced mobile broadband (eMBB) and the
-  ultra-reliable low-latency communication (URLLC) in the downlink of a
-  multi-cell massive MIMO system is investigated in this work. We provide a
-  unified information-theoretic framework blending an infinite-blocklength
-  analysis of the eMBB spectral efficiency (SE) in the ergodic regime with a
-  finite-blocklength analysis of the URLLC error probability. Puncturing (PUNC)
-  and superposition coding (SPC) are considered as alternative coexistence
-  strategies to deal with the inter-service interference. eMBB and URLLC
-  performances are then evaluated over different precoding techniques and power
-  control schemes, by accounting for imperfect channel state information
-  knowledge at the base stations, pilot-based estimation overhead, spatially
-  correlated channels, and the structure of the radio frame. Simulation results
-  reveal that SPC is, in many operating regimes, superior to PUNC in providing
-  higher SE for the eMBB yet achieving the target reliability for the URLLC with
-  high probability. However, PUNC turns to be necessary to preserve the URLLC
-  performance in scenarios where the multi-user interference cannot be
-  satisfactorily alleviated.
+  interference cannot be satisfactorily alleviated.
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - admin
   - Stefano Buzzi
