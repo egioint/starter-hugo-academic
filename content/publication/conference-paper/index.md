@@ -18,8 +18,7 @@ abstract: The non-orthogonal coexistence between the enhanced mobile broadband
   interference cannot be satisfactorily alleviated.
 slides: ""
 url_pdf: ""
-publication_types:
-  - "1"
+publication_types: ["1"]
 authors:
   - admin
   - Stefano Buzzi
