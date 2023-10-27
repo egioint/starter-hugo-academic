@@ -27,9 +27,9 @@ authors:
   - Luca Venturino
 author_notes: []
 publication: In *2023 IEEE Wireless Communications and Networking Conference*
-summary: "We provide a rigorous unifi\fed information-theoretic framework
-  blending an in\ffinite-blocklength analysis of the eMBB spectral efficiency
-  with a \ffinite-blocklength analysis of the URLLC error probability to study
+summary: "We provide a rigorous unified information-theoretic framework
+  blending an in finite-blocklength analysis of the eMBB spectral efficiency
+  with a finite-blocklength analysis of the URLLC error probability to study
   the non-orthogonal coexistence between the eMBB and the URLLC in the downlink
   of a multi-cell massive MIMO system."
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
