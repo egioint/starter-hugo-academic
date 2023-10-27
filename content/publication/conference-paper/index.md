@@ -16,10 +16,10 @@ abstract: The non-orthogonal coexistence between the enhanced mobile broadband
   reliability for the URLLC with high probability. However, PUNC turns to be
   necessary to preserve the URLLC performance in scenarios where the multi-user
   interference cannot be satisfactorily alleviated.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
-  - "2"
+  - "1"
 authors:
   - admin
   - Stefano Buzzi
@@ -49,7 +49,7 @@ projects:
 image:
   caption: An illustrative example of the non-orthogonal coexistence between the
     eMBB and the URLLC in the downlink of a multi-cell massive MIMO system.
-  focal_point: CENTER
+  focal_point: TOP
   preview_only: false
   alt_text: ""
   filename: featured.png
@@ -60,8 +60,3 @@ url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
