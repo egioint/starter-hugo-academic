@@ -26,7 +26,7 @@ authors:
   - Carmen D’Andrea
   - Luca Venturino
 author_notes: []
-publication: In *2023 IEEE Wireless Communications and Networking Conference*
+publication: In *2023 IEEE Wireless Communications and Networking Conference (WCNC)*
 summary: "We provide a rigorous unified information-theoretic framework
   blending an in finite-blocklength analysis of the eMBB spectral efficiency
   with a finite-blocklength analysis of the URLLC error probability to study
@@ -34,7 +34,7 @@ summary: "We provide a rigorous unified information-theoretic framework
   of a multi-cell massive MIMO system."
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *WCNC*
+publication_short: In *2023 IEEE Wireless Communications and Networking Conference (WCNC)*
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Non-Orthogonal Multiplexing of eMBB and URLLC in Multi-cell Massive MIMO
